@@ -1,0 +1,80 @@
+.mainContainer {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 64px;
+}
+
+.dataContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 600px;
+}
+
+.header {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+  color: rgb(77, 77, 77);
+}
+
+.bio {
+  text-align: center;
+  color: rgb(105, 104, 104);
+  margin: 20px;
+ 
+}
+
+.button {
+  position: relative;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  cursor: pointer;
+  border: 0;
+  border-radius: 5px;
+  box-shadow: 0 0 10px 5px grey;
+  width: 200px;
+  height: 40px;
+  text-align: center; 
+}
+
+.input-field {
+  margin: 20px;
+  border-radius: 5px;
+  height: 20px;
+  
+}
+.connect {
+  bottom: 0;
+  position: relative;
+  text-align: center; 
+  color: rgb(105, 104, 104);
+  margin-top: 20px;
+}
+.social-icons{
+    margin: 20px ;
+    text-align: center; 
+    bottom: 0;
+}
+.social-icons img{
+  width: 30px;
+  position: sticky;
+  height: 30px;
+  margin: 20px;
+  box-shadow: 0 0 20px 10px #ffffffff;
+  cursor: pointer;
+  border-radius: 50%;
+  background-color: transparent;
+}
+.transactions {
+  color: rgb(105, 104, 104);
+  border-radius: 5px;
+  background-color: transparent;
+  box-shadow: 0 0 10px 5px grey;
+  margin: 20px;
+
+  
+
+}
