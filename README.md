@@ -1,4 +1,4 @@
 # Wave Portal 
 In progress
 
-![](wave.gif)
+<img src="wave.gif" width="100%" height="100%">
