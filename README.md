@@ -7,6 +7,8 @@ Connect your MetaMask wallet (Rinkeby testnet) and send a wave w/ a message for 
 - [MetaMask](https://metamask.io/) wallet
 - love for saying 'gm' :)
 
+# Demo
+
 <img src="wave.gif" width="100%" height="100%"> 
 
 
